@@ -1,5 +1,5 @@
 # About the project
-This is a work in progress project, as a team, we primarily don't know what we're doing. Our main goal is to reach the end of the project without irreparably corrupting the original binary file.
+This is a work in progress project, as a team, we primarily don't know what we're doing. Our main goal is to reach the end of the project without irreparably corrupt the original binary file.
 
 ## Roadmap
 
